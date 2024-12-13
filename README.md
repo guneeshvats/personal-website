@@ -3,7 +3,7 @@
 
 Directory Structure : 
 
-`project-folder/
+```project-folder/
 ├── css/
 │   ├── animate.css
 │   ├── bootstrap.css
@@ -19,4 +19,4 @@ Directory Structure :
 │   ├── main.js
 │   ├── other JS files
 ├── index.html
-├── README.md`
+├── README.md```
