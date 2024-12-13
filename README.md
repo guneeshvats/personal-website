@@ -2,8 +2,8 @@
 
 
 Directory Structure : 
-`
-project-folder/
+
+`project-folder/
 ├── css/
 │   ├── animate.css
 │   ├── bootstrap.css
@@ -19,7 +19,4 @@ project-folder/
 │   ├── main.js
 │   ├── other JS files
 ├── index.html
-├── README.md
-
-
-`
+├── README.md`
